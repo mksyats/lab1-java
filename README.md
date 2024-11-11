@@ -27,7 +27,7 @@ git clone --depth=1 https://github.com/mksyats/lab1-java
 
 2. Перейдіть до каталогу з вихідним кодом програми:
 ```bash
-cd ...
+cd lab1-java
 ```
 
 3. Скомпілюйте та запустіть вихідний код:
